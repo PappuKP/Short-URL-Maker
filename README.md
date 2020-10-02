@@ -1,5 +1,8 @@
 # Short-URL-Maker
-This app is for making the Short url. Start with npm run devStart
+
+Hey! Do you want to build a app that shortens the URLs?
+Then start now with npm run devStart
+
 
 <img src="Screenshot (822).png">
 <img src="Screenshot (823).png">
